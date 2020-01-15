@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: justinshroyer.com
+Token: f6e7752e5bd96dc86f88bd6a16249218ad6198ea12787166a51f44867310961d
